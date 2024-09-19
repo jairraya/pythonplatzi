@@ -13,29 +13,5 @@ print(numbers[0])
 # numbers[0] = 'unos'
 # print(numbers)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # matrix = [[[1 2][2 4]],
 #           [[5 6][7 8]]]
